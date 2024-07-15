@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaleek49
 - 👀 I’m interested in web development and/or game development.
-- 🌱 I’m currently learning python and html coding.
-- 💞️ I’m looking to collaborate on anything really. i just want to gain experience and connections
+- 🌱 I’m currently learning to use Python and Mysql.
+- 💞️ I’m looking to collaborate on anything. I want to gain experience and connections.
 - 📫 How to reach me .. email: kaleekbiggers52@gmail.com
 
 <!---
